@@ -1,3 +1,3 @@
-rebase test 1
+squash merge test branch
 
-양선효 rebase test 2
+commit 2
