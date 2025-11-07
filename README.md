@@ -1,6 +1,1 @@
-
-스쿼스 테스트
-
-squash merge test branch!
- 
-hello~!
+fast-forward 실습
