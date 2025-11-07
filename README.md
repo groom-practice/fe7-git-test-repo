@@ -1,7 +1,1 @@
-rebase test 1
-
-rebase test 2
-
-hello!
-
-test rebase commit!
+스쿼스 테스트
