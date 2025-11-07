@@ -1,3 +1,4 @@
 ### git test repo
 
-squash test
+스쿼시 테스트
+
