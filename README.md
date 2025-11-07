@@ -1,3 +1,3 @@
 ### git test repo
 
-redase test 1
+스쿼시 테스트
